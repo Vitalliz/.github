@@ -32,10 +32,10 @@ Desenvolver uma solução inteligente e acessível para o **diagnóstico automat
 
 ##  Equipe Vittaliz
 
-- **Lucas Fagundes** @ManoRokys
-- **Amanda Freitas** @amadafralve
-- **Valéria Freitas** @ValeriaDeFreitas
-- **Juliano Rodrigues** @jurodri
+- **Lucas Fagundes** - @ManoRokys
+- **Amanda Freitas** - @amandafralve
+- **Valéria Freitas** - @ValeriaDeFreitas
+- **Juliano Rodrigues** - @jurodri
 
 ---
 
@@ -45,6 +45,7 @@ Desenvolver uma solução inteligente e acessível para o **diagnóstico automat
 - Node.js (Back-end)
 - MySQL (Banco de Dados)
 - React Native (Aplicativo Mobile)
+
 
 
 
