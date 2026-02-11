@@ -32,9 +32,10 @@ Desenvolver uma solução inteligente e acessível para o **diagnóstico automat
 
 ##  Equipe Vittaliz
 
-- **Lucas Fagundes** — [lucas.fagundes3@fatec.sp.gov.br](mailto:lucas.fagundes3@fatec.sp.gov.br)
-- **Amanda Freitas** — [amanda.freitas14@fatec.sp.gov.br](mailto:amanda.freitas14@fatec.sp.gov.br)
-- **Valéria Freitas** — [valeria.freitas@fatec.sp.gov.br](mailto:valeria.freitas@fatec.sp.gov.br)
+- **Lucas Fagundes** @ManoRokys
+- **Amanda Freitas** @amadafralve
+- **Valéria Freitas** @ValeriaDeFreitas
+- **Juliano Rodrigues** @jurodri
 
 ---
 
@@ -44,6 +45,7 @@ Desenvolver uma solução inteligente e acessível para o **diagnóstico automat
 - Node.js (Back-end)
 - MySQL (Banco de Dados)
 - React Native (Aplicativo Mobile)
+
 
 
 
