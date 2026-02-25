@@ -13,7 +13,7 @@ O projeto busca aplicar **Inteligência Artificial e Visão Computacional** para
 
 Por meio de **redes neurais convolucionais (CNNs)**, o sistema ira analisar imagens capturadas via smartphone, oferecendo diagnóstico rápido e preciso aos produtores rurais.
 
-<a href="https://www.figma.com/design/h4FxP4RUkTpUFrHNeXchgI/NitrusLeaf-UI?node-id=1-28063&t=sACa9mW4EY50fagU-1" target="_blank">🎨 Ver protótipo no Figma</a>
+<a href="https://www.figma.com/design/JBqUSdQvYw4jBq1dWZ5ImU/Nitrusleaf-UI-UX?node-id=0-1&t=91nKmj3rTPyvBKqA-1" target="_blank">🎨 Ver protótipo no Figma</a>
 
 
 ## Objetivo Geral
@@ -37,14 +37,8 @@ Desenvolver uma solução inteligente e acessível para o **diagnóstico automat
 - **Valéria Freitas** - @ValeriaDeFreitas
 - **Juliano Rodrigues** - @jurodri
 
----
 
-##  Tecnologias-Chave
 
-- React & Next.js (Front-end)
-- Node.js (Back-end)
-- MySQL (Banco de Dados)
-- React Native (Aplicativo Mobile)
 
 
 
