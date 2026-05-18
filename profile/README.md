@@ -1,4 +1,5 @@
 # Projeto Integrador - Equipe Vitalliz
+<a href="https://vitalliz.vercel.app/" target="_blank">🌌 Equipe Vitalliz</a>
 
 Organização dedicada ao desenvolvimento do **Projeto Integrador** do curso de **Desenvolvimento de Software Multiplataforma na Fatec Registro**.
 
@@ -11,6 +12,7 @@ O projeto busca aplicar **Inteligência Artificial e Visão Computacional** para
 Por meio de **redes neurais convolucionais (CNNs)**, o sistema ira analisar imagens capturadas via smartphone, oferecendo diagnóstico rápido e preciso aos produtores rurais.
 
 <a href="https://www.figma.com/design/JBqUSdQvYw4jBq1dWZ5ImU/Nitrusleaf-UI-UX?node-id=0-1&t=91nKmj3rTPyvBKqA-1" target="_blank">🎨 Ver protótipo no Figma</a>
+
 
 ## Objetivo Geral
 
