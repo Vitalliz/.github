@@ -1,5 +1,5 @@
 # Projeto Integrador - Equipe Vitalliz
-<a href="https://vitalliz.vercel.app/" target="_blank">🌌 Equipe Vitalliz</a>
+<a href="https://vitalliz-group.vercel.app/" target="_blank">🌌 Equipe Vitalliz</a>
 
 Organização dedicada ao desenvolvimento do **Projeto Integrador** do curso de **Desenvolvimento de Software Multiplataforma na Fatec Registro**.
 
