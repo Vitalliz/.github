@@ -31,4 +31,4 @@ Desenvolver uma solução inteligente e acessível para o **diagnóstico automat
 - **Lucas Fagundes** - @ManoRokys
 - **Amanda Freitas** - @amandafralve
 - **Valéria Freitas** - @ValeriaDeFreitas
-- **Juliano Rodrigues** - @jurodri
+- **Juliano Rodrigues** - @nongrodrigues
