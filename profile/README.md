@@ -17,9 +17,9 @@ Organização dedicada ao desenvolvimento do **Projeto Integrador** do curso de 
 
 ## 🍊 Tema do Projeto: NitrusLeaf
 
-> **Classificação de Manganês e Cobre na Folha da Mexerica, Orientada por Redes Neurais**
+> **Classificação de Manganês = na Folha da Mexerica, Orientada por Redes Neurais**
 
-O **NitrusLeaf** é uma solução tecnológica que alia **Inteligência Artificial** e **Visão Computacional** para identificar precocemente deficiências nutricionais de cobre ($Cu$) e manganês ($Mn$) em folhas de *Citrus reticulata* (mexerica).
+O **NitrusLeaf** é uma solução tecnológica que alia **Inteligência Artificial** e **Visão Computacional** para identificar precocemente deficiências nutricionais de manganês ($Mn$) em folhas de *Citrus reticulata* (mexerica).
 
 Por meio de **Redes Neurais Convolucionais (CNNs)** integradas a uma interface mobile intuitiva, o sistema analisa imagens capturadas pela câmera de smartphones, fornecendo um diagnóstico rápido e confiável diretamente no campo.
 
