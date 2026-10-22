@@ -17,7 +17,7 @@ Organização dedicada ao desenvolvimento do **Projeto Integrador** do curso de 
 
 ## 🍊 Tema do Projeto: NitrusLeaf
 
-> **Classificação de Manganês = na Folha da Mexerica, Orientada por Redes Neurais**
+> **Classificação de Manganês na Folha da Mexerica, Orientada por Redes Neurais**
 
 O **NitrusLeaf** é uma solução tecnológica que alia **Inteligência Artificial** e **Visão Computacional** para identificar precocemente deficiências nutricionais de manganês ($Mn$) em folhas de *Citrus reticulata* (mexerica).
 
@@ -40,16 +40,16 @@ Desenvolver uma ferramenta inteligente e acessível para o **diagnóstico automa
 
 ## 📂 Repositórios da Organização
 
-| Repositório | Descrição | Status |
-| :--- | :--- | :---: |
-| 📱 [**`nitrusleaf-mobile`**](https://github.com/Vitalliz/nitrusleaf-mobile) | Aplicativo mobile em React Native e TypeScript para captura e inferência em campo. | ![Ativo](https://img.shields.io/badge/Status-Ativo-success?style=flat-square) |
-| 📄 [**`pi-artigo-fatec`**](https://github.com/Vitalliz/pi-artigo-fatec) | Artigo científico, fundamentação teórica e documentação do projeto em LaTeX. | ![Ativo](https://img.shields.io/badge/Status-Ativo-success?style=flat-square) |
-| 📊 [**`apresentacao-nitrusleaf`**](https://github.com/Vitalliz/apresentacao-nitrusleaf) | Apresentação oficial de slides do projeto desenvolvida em LaTeX Beamer. | ![Ativo](https://img.shields.io/badge/Status-Ativo-success?style=flat-square) |
-| 🌐 [**`nitrusleaf-web`**](https://github.com/Vitalliz/nitrusleaf-web) | Versão web legada do sistema NitrusLeaf. | ![Descontinuado](https://img.shields.io/badge/Status-Descontinuado-critical?style=flat-square) |
+| Repositório | Descrição |
+| :--- | :--- |
+| 📱 [**`nitrusleaf-mobile`**](https://github.com/Vitalliz/nitrusleaf-mobile) | Aplicativo mobile em React Native e TypeScript para captura e inferência em campo. |
+| 📄 [**`pi-artigo-fatec`**](https://github.com/Vitalliz/pi-artigo-fatec) | Artigo científico, fundamentação teórica e documentação do projeto em LaTeX. |
+| 📊 [**`apresentacao-nitrusleaf`**](https://github.com/Vitalliz/apresentacao-nitrusleaf) | Apresentação oficial de slides do projeto desenvolvida em LaTeX Beamer. |
+| 🌐 [**`nitrusleaf-web`**](https://github.com/Vitalliz/nitrusleaf-web) | Versão web legada do sistema NitrusLeaf (descontinuada). |
 
 ---
 
-## Equipe Vitalliz
+## 👥 Equipe Vitalliz
 
 | Integrante | GitHub |
 | :--- | :--- |
@@ -57,3 +57,4 @@ Desenvolver uma ferramenta inteligente e acessível para o **diagnóstico automa
 | **Amanda Freitas** | [@amandafralve](https://github.com/amandafralve) |
 | **Valéria Freitas** | [@ValeriaDeFreitas](https://github.com/ValeriaDeFreitas) |
 | **Juliano Rodrigues** | [@nongrodrigues](https://github.com/nongrodrigues) |
+
